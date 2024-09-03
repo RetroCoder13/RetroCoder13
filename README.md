@@ -1,10 +1,21 @@
-# <img src="https://retrocoder13.github.io/assets/textures/RetroCoder.png" width="20px"> RetroCoder <img src="https://retrocoder13.github.io/assets/textures/RetroCoder.png" width="20px">
+# 💫 About Me:
+I'm a software engineer who is proficient in JavaScript and Python<br>I also make indie video games and take part in the GMTK Game Jam annually
 
-### Links:
-<img src="https://retrocoder13.github.io/assets/textures/RetroCoder.png" width="15px"> [Website](https://retrocoder13.github.io)  
-<img src="https://static.itch.io/images/itchio-textless-black.svg" width="15px"> [itch.io](https://retrocoder.itch.io)   
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15px"> [GitHub](https://github.com/RetroCoder13)  
 
-### What I Do
-I make simple video games in JavaScript so they're playable on a Web Browser
-You can find my games on https://retrocoder13.github.io or https://retrocoder.itch.io
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/retrocoder13) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RetroCoder13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RetroCoder13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RetroCoder13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RetroCoder13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RetroCoder13&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
